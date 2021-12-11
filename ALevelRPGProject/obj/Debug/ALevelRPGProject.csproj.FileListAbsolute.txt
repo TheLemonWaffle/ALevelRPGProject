@@ -1,0 +1,9 @@
+C:\Users\JoelB\source\repos\ALevelRPGProject\ALevelRPGProject\bin\Debug\ALevelRPGProject.exe.config
+C:\Users\JoelB\source\repos\ALevelRPGProject\ALevelRPGProject\bin\Debug\ALevelRPGProject.exe
+C:\Users\JoelB\source\repos\ALevelRPGProject\ALevelRPGProject\bin\Debug\ALevelRPGProject.pdb
+C:\Users\JoelB\source\repos\ALevelRPGProject\ALevelRPGProject\obj\Debug\ALevelRPGProject.csprojAssemblyReference.cache
+C:\Users\JoelB\source\repos\ALevelRPGProject\ALevelRPGProject\obj\Debug\Interop.ADOX.dll
+C:\Users\JoelB\source\repos\ALevelRPGProject\ALevelRPGProject\obj\Debug\ALevelRPGProject.csproj.ResolveComReference.cache
+C:\Users\JoelB\source\repos\ALevelRPGProject\ALevelRPGProject\obj\Debug\ALevelRPGProject.csproj.CoreCompileInputs.cache
+C:\Users\JoelB\source\repos\ALevelRPGProject\ALevelRPGProject\obj\Debug\ALevelRPGProject.exe
+C:\Users\JoelB\source\repos\ALevelRPGProject\ALevelRPGProject\obj\Debug\ALevelRPGProject.pdb
